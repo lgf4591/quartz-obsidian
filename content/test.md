@@ -1,3 +1,11 @@
+---
+title: Test
+author: lgf
+date created: 2023-11-22
+tags:
+  - typescript
+  - obsidian
+---
 
 # H1
 Hello
@@ -8,6 +16,7 @@ Hello
 ### H3
 Hello
 
+> Python Code
 ```python
 import pandas as pd
 
@@ -18,11 +27,44 @@ main()
 
 ```
 
-
+> Bash Code
 ```bash
 pwd
 ls -lah
 docker run --rm hello-world
 
-
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
