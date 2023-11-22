@@ -26,8 +26,24 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18.14
+      
+      - name: Get node version
+        id: node
+        run: |
+          echo "::set-output name=version::$(node -v)"
+
+      - name: Get node_modules cache
+        uses: actions/cache@v3
+        id: cache_node_modules
+        with:
+          path: |
+            **/node_modules
+          key: ${{ runner.os }}-node_modules-${{ hashFiles('**/package-lock.json') }}-${{ steps.node.outputs.version }}
+          restore-keys: |
+            ${{ runner.os }}-${{ steps.node.outputs.version }}-nodeModules-
 
       - name: Install Dependencies
+        if: steps.cache_node_modules.outputs.cache-hit != 'true'
         run: npm ci
 
       - name: Build Quartz
