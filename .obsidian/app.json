@@ -1,5 +1,26 @@
 {
   "promptDelete": false,
   "tabSize": 2,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "quartz/",
+    "docs/",
+    ".git/",
+    ".vscode/",
+    ".devcontainer/",
+    ".idea/",
+    "public/",
+    "build/",
+    "dist/",
+    "node_modules/",
+    ".github/",
+    ".gitee/",
+    ".gitlab/"
+  ],
+  "showUnsupportedFiles": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/Pages",
+  "attachmentFolderPath": "content/Attachments"
 }

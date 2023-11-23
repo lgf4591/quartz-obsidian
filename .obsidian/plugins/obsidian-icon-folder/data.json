@@ -6,9 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9175f3",
     "recentlyUsedIcons": [
-      "RiPagesFill",
-      "TiTemplate",
-      "SiLivejournal"
+      "RiAttachment2",
+      "RiCalendar2Fill",
+      "BoBxCalendar",
+      "IbCalendar",
+      "BoBxCalendarWeek"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +28,11 @@
   },
   "content/Journals": "SiLivejournal",
   "content/Pages": "RiPagesFill",
-  "content/Templates": "TiTemplate"
+  "content/Templates": "TiTemplate",
+  "content/Journals/Daily": "TiCalendarEvent",
+  "content/Journals/Monthly": "BoBxCalendar",
+  "content/Journals/Weekly": "BoBxCalendarWeek",
+  "content/Journals/Yearly": "IbCalendar",
+  "content/Journals/Quarterly": "RiCalendar2Fill",
+  "content/Attachments": "RiAttachment2"
 }
