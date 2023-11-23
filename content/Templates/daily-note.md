@@ -1,9 +1,10 @@
 ---
 author: lgf
 title: {{title}}
-created: {{date:YYYY-MM-DD}}
-tags: daily, calendar/{{date:YYYY}}/Q{{date:Q}}/{{date:MM}}/W{{date:W}}
+aliases: {{date:WW}}_{{date:YYYY-MM-DD}} daily note
+tags: daily-note, calendar/{{date:YYYY}}/Q{{date:Q}}/{{date:MM}}/W{{date:W}}
 links: url
+drafts: false
 ---
 # {{date:WW}}_{{date:YYYY-MM-DD}}
 <<   [[{{date-1d:W}}_{{date-1d:YYYY-MM-DD}} | yesterday]]   |   [[{{date+1d:W}}_{{date+1d:YYYY-MM-DD}} | tomorrow]]   >>

@@ -1,10 +1,11 @@
 ---
 author: lgf
 title: {{title}}
-created: {{date:YYYY-MM-DD}}
-tags: yearly, calendar/summary/yearly/{{date:YYYY}}
+aliases: {{date:YYYY}} yearly note
+created: {{date:YYYY-MM-DD}} {{time:HH:mm:ss}}
+tags: yearly-note, calendar/summary/yearly/{{date:YYYY}}
 links: url
-
+drafts: false
 ---
 # {{date:YYYY}}
 

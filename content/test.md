@@ -1,6 +1,7 @@
 ---
 title: Test
 author: lgf
+drafts: true
 date created: 2023-11-22
 tags:
   - typescript
