@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Pages/Obsidian学习资源合集.md",
+                "file": "content/Journals/Daily/2023-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Pages/Obsidian学习资源合集.md"
+                "file": "content/Journals/Daily/2023-11-23.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Pages/Obsidian学习资源合集.md",
+                "file": "content/Journals/Daily/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Pages/Obsidian学习资源合集.md",
+                "file": "content/Journals/Daily/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,41 +222,45 @@
   },
   "active": "33a1c88275e12bd9",
   "lastOpenFiles": [
-    "content/Journals/Daily/2023-11-23.md",
-    "content/Pages/Obsidian学习资源合集.md",
-    "content/index.md",
-    "content/Attachments",
-    "content/Journals/Quarterly/2023-Q4.md",
-    "content/Journals/Monthly/2023-11.md",
-    "content/Journals/Yearly/2023.md",
-    "content/Journals/Weekly/2023-W47.md",
-    "content/markdown语法.md",
-    "content/test.md",
-    "content/Templates/yearly-note.md",
-    "content/Templates/weekly-note.md",
-    "content/Templates/quarterly-note.md",
-    "content/Templates/monthly-note.md",
-    "content/Templates/daily-note.md",
-    "content/Templates/Yearly_Journal.md",
-    "content/Templates/Quarterly_Journal.md",
-    "content/Templates/Daily_Journal.md",
-    "content/Templates/Weekly_Journal.md",
-    "content/Templates/Monthly_Journal.md",
-    "content/Journals/Quarterly",
-    "content/Journals/Daily",
-    "content/Journals/Yearly",
-    "content/Journals/Monthly",
-    "content/Journals/Weekly",
-    "content/Pages",
-    "content/learn/cook/Untitled.md",
-    "content/learn/program/JavaScript/运算符与控制流程.md",
-    "content/learn/program/JavaScript/起步入门.md",
-    "content/learn/program/JavaScript/网络请求.md",
-    "content/learn/program/JavaScript/类.md",
-    "content/learn/program/JavaScript/空间坐标.md",
-    "content/learn/program/JavaScript/正则表达式.md",
-    "content/learn/program/JavaScript",
-    "content/learn/program/Git",
-    "content/learn/program/Docker"
+    "public/404.html",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/static/contentIndex.json",
+    "public/static",
+    "public/index.xml",
+    "public/sitemap.xml",
+    "public/tags/calendar/summary/weekly/dateyyyy/wdatew.html",
+    "public/tags/calendar/summary/weekly/2023/w47.html",
+    "public/tags/calendar/summary/quarterly/dateyyyy/qdateq.html",
+    "public/tags/calendar/summary/quarterly/2023/q4.html",
+    "public/tags/calendar/summary/monthly/dateyyyy/datemm.html",
+    "public/tags/calendar/summary/monthly/2023/11.html",
+    "node_modules/data-urls/README.md",
+    "node_modules/hast-util-to-parse5/readme.md",
+    "node_modules/micromark-extension-gfm-strikethrough/readme.md",
+    "node_modules/micromark-extension-gfm-footnote/readme.md",
+    "node_modules/mdast-util-to-string/readme.md",
+    "node_modules/@esbuild-kit/core-utils/node_modules/@esbuild/win32-x64/README.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/speech-rule-engine/lib/README.md",
+    "node_modules/cssstyle/README.md",
+    "node_modules/katex/contrib/mathtex-script-type/README.md",
+    "node_modules/katex/contrib/mhchem/README.md",
+    "node_modules/katex/contrib/copy-tex/README.md",
+    "node_modules/katex/contrib/auto-render/README.md",
+    "node_modules/yargs/README.md",
+    "node_modules/workerpool/README.md",
+    "node_modules/workerpool/HISTORY.md",
+    "node_modules/tsx/README.md",
+    "node_modules/jsonc-parser/README.md",
+    "node_modules/path-scurry/README.md",
+    "node_modules/gray-matter/README.md",
+    "node_modules/vfile/readme.md",
+    "node_modules/d3/README.md",
+    "node_modules/d3-color/README.md",
+    "node_modules/d3-drag/README.md",
+    "node_modules/d3-transition/README.md",
+    "node_modules/cli-spinner/img/spinner.gif",
+    "node_modules/psl/browserstack-logo.svg"
   ]
 }

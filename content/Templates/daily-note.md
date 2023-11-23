@@ -1,7 +1,7 @@
 ---
 author: lgf
 title: {{title}}
-aliases: {{date:WW}}_{{date:YYYY-MM-DD}} daily note
+created: {{date:YYYY-MM-DD}}
 tags: daily, calendar/{{date:YYYY}}/Q{{date:Q}}/{{date:MM}}/W{{date:W}}
 links: url
 ---

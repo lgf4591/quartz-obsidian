@@ -1,9 +1,9 @@
 ---
 author: lgf
 title: {{title}}
-aliases: {{date:YYYY-MM}} monthly note
-created: {{date:YYYY-MM-DD}} {{time:HH:mm:ss}}
+created: {{date:YYYY-MM-DD}}
 tags: monthly, calendar/summary/monthly/{{date:YYYY}}/{{date:MM}}
+links: url
 ---
 # {{date:YYYY-MM}}
 # Tasks
