@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Journals/Daily/2023-11-23.md",
+                "file": "content/Pages/使用Quartz 发布 Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Journals/Daily/2023-11-23.md"
+                "file": "content/Pages/使用Quartz 发布 Obsidian.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Journals/Daily/2023-11-23.md",
+                "file": "content/Pages/使用Quartz 发布 Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Journals/Daily/2023-11-23.md",
+                "file": "content/Pages/使用Quartz 发布 Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,12 +216,14 @@
       "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "terminal:Open terminal": false,
-      "periodic-notes:Open this week": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "33a1c88275e12bd9",
   "lastOpenFiles": [
+    "content/Journals/Daily/2023-11-24.md",
+    "content/Pages/使用Quartz 发布 Obsidian.md",
+    "content/Journals/Daily/2023-11-23.md",
     "public/404.html",
     "public/static/og-image.png",
     "public/static/icon.png",
@@ -234,7 +236,6 @@
     "public/tags/calendar/summary/quarterly/dateyyyy/qdateq.html",
     "public/tags/calendar/summary/quarterly/2023/q4.html",
     "public/tags/calendar/summary/monthly/dateyyyy/datemm.html",
-    "public/tags/calendar/summary/monthly/2023/11.html",
     "node_modules/data-urls/README.md",
     "node_modules/hast-util-to-parse5/readme.md",
     "node_modules/micromark-extension-gfm-strikethrough/readme.md",
@@ -258,8 +259,6 @@
     "node_modules/vfile/readme.md",
     "node_modules/d3/README.md",
     "node_modules/d3-color/README.md",
-    "node_modules/d3-drag/README.md",
-    "node_modules/d3-transition/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/psl/browserstack-logo.svg"
   ]
