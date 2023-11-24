@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Pages/使用Quartz 发布 Obsidian.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Pages/使用Quartz 发布 Obsidian.md"
+                "file": "content/index.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Pages/使用Quartz 发布 Obsidian.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Pages/使用Quartz 发布 Obsidian.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +221,13 @@
   },
   "active": "33a1c88275e12bd9",
   "lastOpenFiles": [
-    "content/Journals/Daily/2023-11-24.md",
-    "content/Pages/使用Quartz 发布 Obsidian.md",
     "content/Journals/Daily/2023-11-23.md",
+    "content/index.md",
+    "content/Journals/Daily/2023-11-24.md",
+    "content/Templates/daily-note.md",
+    "content/Journals/Monthly/2023-11.md",
+    "content/markdown语法.md",
+    "content/Pages/使用Quartz 发布 Obsidian.md",
     "public/404.html",
     "public/static/og-image.png",
     "public/static/icon.png",
@@ -255,10 +259,6 @@
     "node_modules/tsx/README.md",
     "node_modules/jsonc-parser/README.md",
     "node_modules/path-scurry/README.md",
-    "node_modules/gray-matter/README.md",
-    "node_modules/vfile/readme.md",
-    "node_modules/d3/README.md",
-    "node_modules/d3-color/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/psl/browserstack-logo.svg"
   ]

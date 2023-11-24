@@ -58,6 +58,20 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "README.md",
         "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "node_modules",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "public",
+        "patternType": "WILDCARD"
       }
     ]
   }

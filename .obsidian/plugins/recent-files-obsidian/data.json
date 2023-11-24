@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "使用Quartz 发布 Obsidian",
-      "path": "content/Pages/使用Quartz 发布 Obsidian.md"
-    },
-    {
-      "basename": "2023-11-24",
-      "path": "content/Journals/Daily/2023-11-24.md"
+      "basename": "index",
+      "path": "content/index.md"
     },
     {
       "basename": "2023-11-23",
       "path": "content/Journals/Daily/2023-11-23.md"
     },
     {
-      "basename": "Obsidian学习资源合集",
-      "path": "content/Pages/Obsidian学习资源合集.md"
+      "basename": "2023-11-24",
+      "path": "content/Journals/Daily/2023-11-24.md"
     },
     {
-      "basename": "index",
-      "path": "content/index.md"
-    },
-    {
-      "basename": "2023-Q4",
-      "path": "content/Journals/Quarterly/2023-Q4.md"
+      "basename": "daily-note",
+      "path": "content/Templates/daily-note.md"
     },
     {
       "basename": "2023-11",
       "path": "content/Journals/Monthly/2023-11.md"
+    },
+    {
+      "basename": "markdown语法",
+      "path": "content/markdown语法.md"
+    },
+    {
+      "basename": "使用Quartz 发布 Obsidian",
+      "path": "content/Pages/使用Quartz 发布 Obsidian.md"
+    },
+    {
+      "basename": "Obsidian学习资源合集",
+      "path": "content/Pages/Obsidian学习资源合集.md"
+    },
+    {
+      "basename": "2023-Q4",
+      "path": "content/Journals/Quarterly/2023-Q4.md"
     },
     {
       "basename": "2023",
@@ -35,10 +43,6 @@
     {
       "basename": "2023-W47",
       "path": "content/Journals/Weekly/2023-W47.md"
-    },
-    {
-      "basename": "markdown语法",
-      "path": "content/markdown语法.md"
     },
     {
       "basename": "test",
@@ -59,10 +63,6 @@
     {
       "basename": "monthly-note",
       "path": "content/Templates/monthly-note.md"
-    },
-    {
-      "basename": "daily-note",
-      "path": "content/Templates/daily-note.md"
     }
   ],
   "omittedPaths": [],
